@@ -1,5 +1,5 @@
-Tensor-Biclustering
+Ref: Tensor-Biclustering
 
-Ref: Soheil Feizi, Hamid Javadi and David Tse
+Soheil Feizi, Hamid Javadi and David Tse
 
 NIPS 2017
