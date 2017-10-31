@@ -1,4 +1,4 @@
-Ref: Tensor-Biclustering
+Ref: Tensor Biclustering
 
 Soheil Feizi, Hamid Javadi and David Tse
 
